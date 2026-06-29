@@ -4,7 +4,7 @@ A compact USB Type-C to UART converter designed in KiCad, built around the **CP2
 
 ---
 
-## 📌 Overview
+##  Overview
 
 This PCB provides a reliable USB to UART serial interface using Silicon Labs CP2102N. It accepts USB Type-C input and exposes UART signals (TX, RX, RST, VBUS, GND) via a 5-pin header — useful for programming and debugging microcontrollers like STM32, ESP32, and Arduino.
 
@@ -23,24 +23,6 @@ This PCB provides a reliable USB to UART serial interface using Silicon Labs CP2
 | Decoupling | 100nF caps on VBUS and VDD |
 | RST Pull-up | 10k (R3) |
 | EDA Tool | KiCad |
-
----
-
-## 🗂️ Repository Structure
-
-```
-usb-to-uart/
-├── README.md
-├── schematic/
-│   └── usb-to-uart.kicad_sch
-├── pcb/
-│   └── usb-to-uart.kicad_pcb
-├── gerbers/
-│   └── (manufacturing files)
-└── images/
-    ├── schematic.png
-    └── pcb-layout.png
-```
 
 ---
 
