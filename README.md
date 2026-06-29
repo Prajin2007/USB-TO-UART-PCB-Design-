@@ -95,11 +95,12 @@ USB Type-C Input (J1)
 ## 🖼️ Screenshots
 
 ### Schematic
-![Schematic](images/<img width="1482" height="810" alt="Screenshot 2026-06-29 141354" src="https://github.com/user-attachments/assets/838fb826-1e81-43e3-b13f-44b2297c9181" />)
+<img width="1482" height="810" alt="Screenshot 2026-06-29 141354" src="https://github.com/user-attachments/assets/838fb826-1e81-43e3-b13f-44b2297c9181" />
 
 
 ### PCB Layout
-![PCB Layout](images/pcb-layout.png)
+<img width="1295" height="592" alt="Screenshot 2026-06-29 141412" src="https://github.com/user-attachments/assets/eef3b4c3-5a4a-42f6-890f-516f6cbc060f" />
+
 
 ---
 
